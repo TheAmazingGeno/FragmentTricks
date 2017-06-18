@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- TextView-->
+    <color name="imageTextBackground">#c00b0b0b</color>
+    <color name="imageText">#f3fffbfb</color>
+
+    <color name="tab_enable">@color/colorPrimary</color>
+    <color name="tab_disable">#272728</color>
+
+</resources>
